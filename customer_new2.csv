@@ -1,0 +1,8 @@
+﻿Customer_id,transaction_type,date,amount,counterparty_id
+a,credit,3/31/22,100,B
+c,credit,3/31/22,100,L
+d,credit,3/31/22,100,M
+e,credit,3/31/22,100,N
+f,debit,3/31/22,100,O
+g,debit,3/31/22,100,P
+,,,,
